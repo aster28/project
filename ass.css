@@ -1,6 +1,6 @@
 .container{
   background-color:black;
-  height: 250px;
+  height: 300px;
   
 }
 
@@ -10,9 +10,11 @@ img{
    height:300px;
 
 }
+@media screen and (max-width:500px){
 img { 
     max-width: 100%; 
     height: auto; 
+ }
 }
 h1{
   color: red;
@@ -21,6 +23,5 @@ h1{
 
 }
 .content{
- margin:45px;
- padding:65px;
+ margin:100px;
 }
