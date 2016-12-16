@@ -3,11 +3,7 @@
   height: 300px;
   
 }
-.sub-menu {
-  position:absolute;
-   display:none;
-   background: #ccc;
-}
+
 
 body{
    background-color:lightgrey;
