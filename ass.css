@@ -1,0 +1,36 @@
+.container{
+  background-color:black;
+  height: 250;
+  
+}
+
+.jumbotron{
+
+  background-color:black;
+  
+  margin: 100px;
+}
+.jumbotron, img,h2{
+ vertical-align:middle;
+ text-align:center;
+ color:white;
+}
+img{
+   width:300;
+  height:300;
+
+}
+img { 
+    max-width: 100%; 
+    height: auto; 
+}
+h1{
+  color: red;
+  text-align:center;
+
+
+}
+.content{
+ margin:45px;
+ padding:65px;
+}
