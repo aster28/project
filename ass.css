@@ -4,20 +4,10 @@
   
 }
 
-.jumbotron{
 
-  background-color:black;
-  
-  margin: 100px;
-}
-.jumbotron, img,h2{
- vertical-align:middle;
- text-align:center;
- color:white;
-}
 img{
-   width:300;
-  height:300;
+   width:300px;
+   height:300px;
 
 }
 img { 
