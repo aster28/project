@@ -12,6 +12,7 @@
 .row,.thumbnail, img{
    display:inline;
   float:left;
+   height:200px;
    width:300px;
   
 }
