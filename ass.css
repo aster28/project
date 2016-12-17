@@ -9,11 +9,11 @@
   display:inline-block;
    float:right;
 }
-.thumbnail{
-   display:inline-block;
+.thumbnail, img{
+   display:inline;
+  float:left;
+   width:300px;
   
-   width:242px;
-  height:200px;
 }
 
 body{
