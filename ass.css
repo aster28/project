@@ -1,5 +1,5 @@
-.2
-.drop-down
+  
+
 .container{
    background-color:rgb(250,250,250);
    height: 300px;
@@ -10,7 +10,7 @@
    float:right;
 }
 .thumbnail{
- display:inline;
+   display:inline-block;
    float:left;
    width:300px;
 }
