@@ -9,7 +9,7 @@
   display:inline-block;
    float:right;
 }
-.thumbnail, img{
+.col-sm-6col-md-4, img{
    display:inline;
   float:left;
    width:300px;
