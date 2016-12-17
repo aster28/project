@@ -9,7 +9,7 @@
   display:inline-block;
    float:right;
 }
-.row,.thumbnail, img{
+.row, img{
    display:inline;
   float:left;
    height:200px;
