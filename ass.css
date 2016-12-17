@@ -7,7 +7,7 @@
 }
 .dropdown{
   display:inline-block;
-   left-margin:20px;
+   float:right;
 }
 
 
