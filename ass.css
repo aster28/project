@@ -28,9 +28,9 @@ img {
     width:auto; 
  }
    .content4 a {
-     text-align:left;
-      padding:0px;
-      margin:0px;
+     text-align:right;
+      
+      top-margin:0px;
    }
 }
 h1{
