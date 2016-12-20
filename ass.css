@@ -22,6 +22,7 @@ body{
 @media screen and (max-width:500px){img {     max-width: 100%; 
    width:auto; 
  }
+
    .content4 a> h3 {
      text-align:left;
      font-weight:bold;
@@ -34,7 +35,7 @@ body{
     vertical-align:text-top;
       
 } 
-         
+   .content5 a>h3{bottom:-1000px; }        
    
 }
 h1{
@@ -78,4 +79,5 @@ margin-top:20px;
 .content5 img{
  float:right;
  height:200px;
+   padding:5px;
 }
