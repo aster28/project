@@ -10,7 +10,7 @@
   display:inline-block;
    float:right;}
 .content3{
-   
+2   
   float:left;
   
    width:300px;
@@ -20,8 +20,7 @@
 body{
    background-color:lightgrey;}
  
-@media screen and (max-width:500px){img { 
-    max-width: 100%; 
+@media screen and (max-width:500px){img {     max-width: 100%; 
     width:auto; 
  }
    .content4 a> h3 {
@@ -83,5 +82,5 @@ padding:20px;
 }
 .content5 img{
  float:right;
- height:300px;
+ height:200px;
 }
