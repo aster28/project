@@ -19,8 +19,7 @@ body{
    background-color:lightgrey;}
  
 @media screen and (max-width:500px){img {     max-width: 100%; 
-   width:auto; 
- }
+   width:auto;  }
 
 1   .content4 a> h3 {
      text-align:left;
@@ -34,7 +33,7 @@ body{
     vertical-align:text-top;
       
 } 
-   .content5 a>h3{bottom:-820px; }        
+   .content5 a>h3{bottom:-780px; }        
    
 }
 h1{
