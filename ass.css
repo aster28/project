@@ -29,9 +29,9 @@ img {
  }
    .content4 a> h3 {
      text-align:left;
-     
+     font-weight:bold;
      position: absolute; 
-     bottom: -580px; 
+     bottom: -750px; 
      left: 0; 
      width: 100%; 
 } 
