@@ -11,8 +11,7 @@
    float:right;}
 .content3{
     float:left;
-  
-   width:300px;
+     width:300px;
   
 }
 
@@ -35,7 +34,7 @@ body{
     vertical-align:text-top;
       
 } 
-   .content5 a>h3{bottom:-1000px; }        
+   .content5 a>h3{bottom:-960px; }        
    
 }
 h1{
