@@ -19,9 +19,8 @@ body{
    background-color:lightgrey;}
  
 @media screen and (max-width:500px){img {     max-width: 100%; 
-   width:auto;  }1   .content4 a> h3 {
-     text-align:left;
-     font-weight:bold;
+   width:auto;  }1   .content4 a>img>h3 {
+     vertical-align:text-top;
      position: absolute; 
      bottom: -720px; 
      left: 0; 
@@ -31,7 +30,7 @@ body{
     vertical-align:text-top;
       
 } 
-   .content5 a>h3{bottom:-780px; }        
+   .content5 a>h3{position:absolute;bottom:-780px; }        
    
 }
 h1{
