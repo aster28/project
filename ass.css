@@ -22,14 +22,15 @@ body{
    width:auto;  }1   
    .content4 a> img {
     vertical-align:text-top;
-      
+     
 } 
    .content5 a> img {
     vertical-align:text-top;
       
 } 
    .content5 a>h3{position:absolute;bottom:-900px; }        
-   
+  .content4 a>h3{text-align:left; }        
+     
 }
 h1{
    color: rgb(250,0,0);
