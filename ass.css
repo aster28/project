@@ -30,13 +30,9 @@ body{
      left: 0; 
      width: 100%; 
 } 
-   .content5 a> h3 {
-     text-align:left;
-     font-weight:bold;
-     position: absolute; 
-     bottom: -950px; 
-     left: 0; 
-     width: 100%; 
+   .content5 a> img {
+    vertical-align:text-top;
+      
 } 
          
    
