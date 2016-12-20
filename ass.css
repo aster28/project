@@ -1,6 +1,6 @@
 
 
-9
+
 .container{
    background-color:rgb(250,250,250);
    height: 300px;
@@ -22,7 +22,7 @@ body{
    width:auto;  }1   .content4 a>h3 {
      
      position: absolute; 
-    top: 550px;
+    top: 150px;
     left: 0; 
      width: 100%; 
 } 
