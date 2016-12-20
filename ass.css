@@ -27,16 +27,16 @@ img {
     max-width: 100%; 
     width:auto; 
  }
-   .content4 h3 {
+   .content4 a> h3 {
      text-align:right;
      
      position: absolute; 
-     top: 200px; 
+     top: 350px; 
      left: 0; 
      width: 100%; 
 } 
       
-   }
+   
 }
 h1{
    color: rgb(250,0,0);
