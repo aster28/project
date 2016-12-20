@@ -1,6 +1,6 @@
 
 
-
+9
 .container{
    background-color:rgb(250,250,250);
    height: 300px;
@@ -10,8 +10,7 @@
   display:inline-block;
    float:right;}
 .content3{
-2   
-  float:left;
+2     float:left;
   
    width:300px;
   
@@ -35,7 +34,7 @@ body{
      text-align:left;
      font-weight:bold;
      position: absolute; 
-     bottom: -750px; 
+     bottom: -950px; 
      left: 0; 
      width: 100%; 
 } 
