@@ -28,11 +28,19 @@ body{
      text-align:left;
      font-weight:bold;
      position: absolute; 
+     bottom: -720px; 
+     left: 0; 
+     width: 100%; 
+} 
+   .content5 a> h3 {
+     text-align:left;
+     font-weight:bold;
+     position: absolute; 
      bottom: -750px; 
      left: 0; 
      width: 100%; 
 } 
-      
+         
    
 }
 h1{
