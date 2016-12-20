@@ -1,4 +1,4 @@
-
+ 
 
 
 .container{
@@ -27,8 +27,10 @@ img {
     max-width: 100%; 
     width:auto; 
  }
-   .content4{
+   .content4 a {
      text-align:left;
+      padding:0px;
+      margin:0px;
    }
 }
 h1{
