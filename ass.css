@@ -18,16 +18,19 @@ body{
 @media screen and (max-width:500px){img {     max-width: 100%; 
    width:auto;  }1      .content4 a> img {
     vertical-align:text-top;
-    width:100% 
+    width:100% ;
+     position:relative;
 } 
    .content5 a> img {
+     position:relative;
     vertical-align:text-top; 
     width:100%;
 } 
       
        
- .content5 a>h3{position:absolute; padding:0px; left:5px;}       
-          
+ .content4 a>h3{position:absolute; padding:0px; left:0px;}       
+ .content5 a>h3{position:absolute; padding:0px; left:0px;}       
+            
 }
 h1{
    color: rgb(250,0,0);
