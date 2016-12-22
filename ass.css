@@ -1,4 +1,4 @@
-id 
+>id 
 
 .container{
    background-color:rgb(250,250,250);
@@ -26,7 +26,7 @@ body{
     width:100%;
 } 
       
- .content4 a{position:relative; font-size:10px;top:20px; }        
+ .content4 a>h3{position:relative; font-size:10px;top:20px; }        
         
 }
 h1{
