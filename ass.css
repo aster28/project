@@ -16,20 +16,20 @@ body{
    background-color:lightgrey;}
  
 @media screen and (max-width:500px){img {     max-width: 100%; 
-   width:auto;  }1      .content4 a> img {
+   width:auto;  }1      .content4  img {
     vertical-align:text-top;
     width:100% ;
     
 } 
-   .content5 a> img {
+   .content5  img {
      
     vertical-align:text-top; 
     width:100%;
 } 
       
        
- .content4 a>h3{position:absolute;padding:110px; text-align:left;left:0px;}       
- .content5 a>h3{position:absolute;padding:100px; text-align:left;left:0px;}       
+ .content4 h3{position:absolute;padding:110px; text-align:left;left:0px;}       
+ .content5 h3{position:absolute;padding:100px; text-align:left;left:0px;}       
             
 }
 h1{
