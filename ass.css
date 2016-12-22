@@ -8,19 +8,17 @@
   display:inline-block;
    float:right;}
 .content3{    float:left;
-     width:300px;
-  
+     width:300px;  
 }
 
 body{
    background-color:lightgrey;}
  
 @media screen and (max-width:500px){img {     max-width: 100%; 
-   width:auto;  }1      .content4  img {
+   width:auto;  }      .content4  img {
     vertical-align:text-top;
     width:100% ;
-    
-} 
+    } 
 
   .content5  img {
      
@@ -60,7 +58,7 @@ background-color:#006892;
 }
 .content6{
  height:400px;
-background-color:#e6b978;
+background-color:#eb6987;
 padding:0.1em;
  
   
