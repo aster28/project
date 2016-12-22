@@ -21,7 +21,8 @@ body{
     width:100% ;
     
 } 
-   .content5  img {
+
+  .content5  img {
      
     vertical-align:text-top; 
     width:100%;
@@ -53,6 +54,12 @@ background-color:#006892;
  
  
 }
+.content6{
+ height:400px;
+background-color:#e6b978;
+
+
+}
 .content4 a >h3{
   right:5px;
   color:#e6e699;
@@ -74,6 +81,11 @@ background-color:#006892;
 }
 .content5 img{
  float:right;
+ height:400px;
+   padding:35px;
+}
+.content6 img{
+ float:left;
  height:400px;
    padding:35px;
 }
