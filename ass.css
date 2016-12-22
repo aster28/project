@@ -28,10 +28,14 @@ body{
     width:100%;
 } 
       
-       
+  .content6  img {
+     
+    vertical-align:text-top; 
+    width:100%;
+}      
  .content4 h3{position:absolute;padding:110px; text-align:left;left:0px;}       
  .content5 h3{position:absolute;padding:100px; text-align:left;left:0px;}       
-            
+ .content6 h1{position:absolute;padding:100px; text-align:left;left:0px;}            
 }
 h1{
    color: rgb(250,0,0);
