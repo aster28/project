@@ -19,7 +19,6 @@ body{
     vertical-align:text-top;
     width:100% ;
     } 
-
   .content5  img {
      
     vertical-align:text-top; 
@@ -58,7 +57,7 @@ background-color:#006892;
 }
 .content6{
  height:400px;
-background-color:#eb6987;
+background-color:#e6b987;
 
  
   
@@ -71,9 +70,16 @@ background-color:#eb6987;
   padding:40px;
   position:absolute;
 }
-.content5 a>h3{
+ .content5 a>h3{
   position:absolute;
   color:red;
+  font-size:20px;
+  padding:40px;
+  left :5px;
+}
+.content6 a>h3{
+  position:absolute;
+  
   font-size:20px;
   padding:40px;
   left :5px;
