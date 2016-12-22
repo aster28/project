@@ -8,8 +8,7 @@ id
 .dropdown{
   display:inline-block;
    float:right;}
-.content3{
-    float:left;
+.content3{    float:left;
      width:300px;
   
 }
@@ -27,7 +26,7 @@ body{
     width:100%;
 } 
       
- .content4 a{position:absolute;bottom:-750px; font-size:10px;text-align:left; }        
+ .content4 a{position:relative; font-size:10px;left:3px; }        
         
 }
 h1{
