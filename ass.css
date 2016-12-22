@@ -1,4 +1,4 @@
-!4>id 
+p!4>id 
 
 .container{   background-color:rgb(250,250,250);
 1   height: 300px;
@@ -28,8 +28,8 @@ body{
 } 
       
        
- .content4 a>h3{position:absolute;padding:110px; left:0px;}       
- .content5 a>h3{padding:100px; left:0px;}       
+ .content4 a>h3{position:absolute;padding:110px; text-align:left;left:0px;}       
+ .content5 a>h3{position:absolute;padding:100px; text-align:left;left:0px;}       
             
 }
 h1{
