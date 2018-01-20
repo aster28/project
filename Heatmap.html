@@ -1,8 +1,9 @@
-
+                       
 "<!DOCTYPE html>
 <html>
 <head>
-	<script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyCXYVl62lnMmHjuGMOWdNNgY4lCxK8BopQ" &sensor=false"></script> <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js?key=AIzaSyCXYVl62lnMmHjuGMOWdNNgY4lCxK8BopQ" ></script>
+	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCXYVl62lnMmHjuGMOWdNNgY4lCxK8BopQ&callback=initMap"
+  type="text/javascript"></script>
 	<script type="text/javascript" src="https://www.heatmaptool.com/js/heatmap.js"></script>
 	<script type="text/javascript">
 
@@ -10,7 +11,12 @@
 
 			// Creates and inserts Google Map
 
-			
+			var mapOptions = {
+				zoom: 4,
+				center: new google.maps.LatLng(38, -97),
+				mapTypeId: google.maps.MapTypeId.SATELLITE,
+				      key:AIzaSyCXYVl62lnMmHjuGMOWdNNgY4lCxK8BopQ
+			};
 
 			var map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
 
