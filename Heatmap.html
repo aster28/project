@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+	<script type="text/javascript" src="https://www.heatmaptool.com/js/heatmap.js"></script>
+	<script type="text/javascript">
+
+		function initialize() {
+
+			// Creates and inserts Google Map
+
+			var mapOptions = {
+				zoom: 4,
+				center: new google.maps.LatLng(38, -97),
+				mapTypeId: google.maps.MapTypeId.SATELLITE
+			};
+
+			var map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
+
+			// Constructs a heat map overlay
+
+			var heatMap = new HeatMap({
+				key: '94b12a8a7b4bfae5b7578726f73269af',
+				data: 'https://docs.google.com/spreadsheets/d/1Cy9P7VQSoE1z7gAxFZta4zgaCmc8xXAqmNMJRrai7k4/edit#gid=1315954097',
+				gradient: 'fire',
+				scale_dimming: 0.5,
+				radius: 5
+			});
+
+			// Adds heat map to Google Map
+
+			heatMap.addTo(map);
+
+		}
+
+	</script>
+</head>
+<body onload="initialize();">
+	<div id="map_canvas" style="position: absolute; top: 0; right: 0; bottom: 0; left: 0;"></div>
+</body>
+</html>
